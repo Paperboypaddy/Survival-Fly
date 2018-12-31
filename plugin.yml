@@ -1,0 +1,16 @@
+name: SurvivalFly
+main: me.paperboypaddy16.SurvivalFly.SurvivalFly
+version: 0.4
+commands:
+   fly:
+       description: Toggles FlyModes 
+       usage: /fly [reload|help]
+   parkourfly:
+       description: blank
+       usage: /<command>
+   world:
+       description: blank
+       usage: /<command>
+   test:
+       description: blank
+       usage: /<command>

@@ -1,0 +1,38 @@
+# Survival Fly by Paperboypaddy16
+# Version 0.4
+
+Enabled Fly message: '&aFly Enabled'
+Disabled Fly message: '&aFly Disabled'
+Enabled Other Fly message: '&aEnabled Fly to &6'
+Disabled Other Fly message: '&aDisabled Fly to &6'
+Got Enabled From Admin message: '&aYour Fly was Enabled by a Admin'
+Got Disabled From Admin message: '&aYour Fly was Disabled by a Admin'
+No Permission message: '&eSorry but you dont have Permission'
+Not a Admin Cmd message: '&eUse &b/fly admin help &e for more Info'
+Not a Cmd message: '&eUse &b/fly help &e for more Info'
+
+
+Enable disabeled worlds: false
+Disabled Worlds:
+- ExampleWorld
+
+# JoinItem doesnt work yet so please dont complain that its not working yet
+# Im trying to get it working by update v0.4 or v0.5
+Enable JoinItem: true
+Join Item: 'EMERALD'
+
+# Permissions:
+FlyCmd Permisson: 'survivalfly.use'
+ReloadCmd Permission: 'survivalfly.reload'
+HelpCmd Permission: 'survivalfly.help'
+AdminCmds Permission: 'survivalfly.admin'
+
+Return No Permission for Fly Cmd: false
+Return No Permission for Help Cmd: true
+Return No Permission for Fly Cmd: true
+
+Require Permission for Fly Cmd: true
+Require Permission for Reload Cmd: true
+Require Permission for Help Cmd: false
+#Permission is Required for Admin Cmd!
+ 
